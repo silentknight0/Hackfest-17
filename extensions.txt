@@ -1,1 +1,0 @@
-<link href='user.css' rel='stylesheet'><script src='user.js'></script><script src='yo!!!!!'></script>
